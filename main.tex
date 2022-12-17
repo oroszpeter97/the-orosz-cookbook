@@ -1,0 +1,114 @@
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[
+	11pt, % Default font size, select one of 10pt, 11pt or 12pt
+	fleqn, % Left align equations
+	a4paper, % Paper size, use either 'a4paper' for A4 size or 'letterpaper' for US letter size
+	%oneside, % Uncomment for oneside mode, this doesn't start new chapters and parts on odd pages (adding an empty page if required), this mode is more suitable if the book is to be read on a screen instead of printed
+]{LegrandOrangeBook}
+
+% Book information for PDF metadata, remove/comment this block if not required 
+\hypersetup{
+	pdftitle={The Orosz Cookbook}, % Title field
+	pdfauthor={Peter Orosz}, % Author field
+	pdfsubject={Cooking}, % Subject field
+	pdfcreator={LaTeX}, % Content creator field
+}
+
+\addbibresource{sample.bib} % Bibliography file
+
+\definecolor{ocre}{RGB}{243, 102, 25} % Define the color used for highlighting throughout the book
+
+\chapterimage{orange1.jpg} % Chapter heading image
+\chapterspaceabove{6.5cm} % Default whitespace from the top of the page to the chapter title on chapter pages
+\chapterspacebelow{6.75cm} % Default amount of vertical whitespace from the top margin to the start of the text on chapter pages
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\titlepage % Output the title page
+	{\includegraphics[width=\paperwidth]{background.pdf}} % Code to output the background image, which should be the same dimensions as the paper to fill the page entirely; leave empty for no background image
+	{ % Title(s) and author(s)
+		\centering\sffamily % Font styling
+		{\Huge\bfseries The Orosz Cookbook\par} % Book title
+		\vspace{16pt} % Vertical whitespace
+		{\LARGE The Art of Practical Cooking\par} % Subtitle
+		\vspace{24pt} % Vertical whitespace
+		{\huge\bfseries Peter Orosz\par} % Author name
+	}
+
+%----------------------------------------------------------------------------------------
+%	TABLE OF CONTENTS
+%----------------------------------------------------------------------------------------
+
+\pagestyle{empty} % Disable headers and footers for the following pages
+
+\tableofcontents % Output the table of contents
+
+\pagestyle{fancy} % Enable default headers and footers again
+
+\cleardoublepage % Start the following content on a new page
+
+%----------------------------------------------------------------------------------------
+%	PART
+%----------------------------------------------------------------------------------------
+
+\part{Dinners and Lunches}
+	%------------------------------------------------
+	\chapterimage{hungarian-goulash.jpg}
+	\chapterspaceabove{6.75cm}
+	\chapterspacebelow{7.25cm}
+	%------------------------------------------------
+
+	\chapter{Hungarian Goulash}\index{Sectioning}
+		\section{Ingerdients}\index{Sectioning!Sections}
+			\begin{itemize}
+				\item 3 Medium sized onion
+				\item 2 Medium sized tomato
+				\item 2 Medium sized bell pepper
+				\item 3 Cloves of garlic
+				\item 1kg of Pork meat
+				\item Salt
+				\item Pepper
+				\item Paprika
+				\item Bay leaf
+				\item 1dl of Vegetable oil
+				\item 0.5kg of Pasta
+			\end{itemize}
+		\section{Method}\index{Sectioning!Sections}
+			\begin{enumerate}
+				\item Preparations
+					\begin{itemize}
+						\item Fine dice the onions, tomato, bell pepper and the garlic.
+						\item Cut the meat into bite sized pieces.
+					\end{itemize}
+				\item The Cooking
+					\begin{itemize}
+						\item Saute the onions with the oil unitl glossy, then add the bell pepper, tomato and garlic. Continue to saute the ingredients until completly soft and the tomatos starting to dissolve.
+						\item Take the pot of the heat. Add salt and pepper to taste, then add 3 teaspoons of paprika. Stir until combined.
+						\item Add the meat to the pot then add water until it barely covers the meat, then add 3 bay leafs. Stir until well combined, then put it back onto the heat.
+						\item Bring it to a boil then lower the heat until it barely simmers. Put a lid on it leaving a crack for steam to escape then cook it for roughly 01:00 - 01:30 hours or until the meat is cooked through, stirring occasionally.
+						\item While the goulash is cooking make the pasta of your liking. I recommend a pasta that holds sauces well.
+					\end{itemize}
+			\end{enumerate}
+			This recipe is enough for 3-4 people with some leftovers.
+
+%----------------------------------------------------------------------------------------
+%	PART
+%----------------------------------------------------------------------------------------
+
+\part{Freezer Meals}
+	%------------------------------------------------
+	\chapterimage{orange2.jpg}
+	\chapterspaceabove{6.75cm}
+	\chapterspacebelow{7.25cm}
+	%------------------------------------------------
+
+\end{document}
