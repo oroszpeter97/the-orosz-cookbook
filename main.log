@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.12)  17 DEC 2022 19:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.12)  19 DEC 2022 12:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1375,10 +1375,10 @@ ckground.pdf>] [2
 <Images//orange1.jpg, id=20, 1644.1425pt x 734.745pt>
 File: Images//orange1.jpg Graphic file (type jpg)
 <use Images//orange1.jpg>
-Package pdftex.def Info: Images//orange1.jpg  used on input line 53.
+Package pdftex.def Info: Images//orange1.jpg  used on input line 54.
 (pdftex.def)             Requested size: 597.50787pt x 267.01932pt.
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 53.
+ 54.
 
 (C:\Users\orosz\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
@@ -1388,35 +1388,35 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 53.
+ 54.
 
 (C:\Users\orosz\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 53.
+ 54.
 
 (C:\Users\orosz\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 53.
+ 54.
 
 (C:\Users\orosz\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
-3.
+4.
 
 (C:\Users\orosz\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
 
 (C:\Users\orosz\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
@@ -1445,6 +1445,16 @@ Overfull \hbox (390.95769pt too wide) detected at line 5
 [][][][][][] [][][][][][] 
  []
 
+
+Overfull \hbox (390.95769pt too wide) detected at line 9
+[][][][][][] [][][][][][] 
+ []
+
+
+Overfull \hbox (390.95769pt too wide) detected at line 10
+[][][][][][] [][][][][][] 
+ []
+
 )
 \tf@toc=\write6
 \openout6 = `main.toc'.
@@ -1454,20 +1464,20 @@ Overfull \hbox (390.95769pt too wide) detected at line 5
 ]
 \c@ttl@toc@part=\count480
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <220> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 63.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 64.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <30> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 63.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 64.
  (main.ptc) [5
 
 ] [6]
 Chapter 1.
-<Images//hungarian-goulash.jpg, id=66, 1644.1425pt x 734.745pt>
+<Images//hungarian-goulash.jpg, id=70, 1644.1425pt x 734.745pt>
 File: Images//hungarian-goulash.jpg Graphic file (type jpg)
 <use Images//hungarian-goulash.jpg>
-Package pdftex.def Info: Images//hungarian-goulash.jpg  used on input line 70.
+Package pdftex.def Info: Images//hungarian-goulash.jpg  used on input line 71.
 (pdftex.def)             Requested size: 597.50787pt x 267.01932pt.
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 7
-3.
+4.
 (C:\Users\orosz\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
@@ -1476,6 +1486,20 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
  <./Images//hungarian-goulash.jpg>] [8
 
 ] (main.ptc) [9] [10]
+Chapter 2.
+<Images//chicken-soup.jpg, id=101, 1644.1425pt x 734.745pt>
+File: Images//chicken-soup.jpg Graphic file (type jpg)
+<use Images//chicken-soup.jpg>
+Package pdftex.def Info: Images//chicken-soup.jpg  used on input line 114.
+(pdftex.def)             Requested size: 597.50787pt x 267.01932pt.
+[11
+
+ <./Images//chicken-soup.jpg>] [12
+
+] (main.ptc) [13] [14] (main.ptc) [15
+
+]
+[16]
 \tf@ptc=\write7
 \openout7 = `main.ptc'.
 
@@ -1493,11 +1517,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33118 strings out of 475385
- 625992 string characters out of 2776906
- 1401538 words of memory out of 3000000
- 53727 multiletter control sequences out of 15000+600000
- 551885 words of font info for 212 fonts, out of 8000000 for 9000
+ 33159 strings out of 475385
+ 626640 string characters out of 2776906
+ 1401679 words of memory out of 3000000
+ 53746 multiletter control sequences out of 15000+600000
+ 552081 words of font info for 215 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  98i,11n,94p,1003b,836s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/orosz/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
@@ -1505,9 +1529,9 @@ Here is how much of TeX's memory you used:
 <C:/Users/orosz/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagk8a.p
 fb><C:/Users/orosz/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.p
 fb>
-Output written on main.pdf (10 pages, 292127 bytes).
+Output written on main.pdf (16 pages, 420694 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
- 98884 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 183 PDF objects out of 1000 (max. 8388607)
+ 32 named destinations out of 1000 (max. 500000)
+ 98929 words of extra memory for PDF output out of 106986 (max. 10000000)
 

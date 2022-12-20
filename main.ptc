@@ -5,5 +5,14 @@
 \contentsline {section}{\numberline {1.2}Method}{7}{section.1.2}%
 \ttl@stoptoc {part@1}
 \ttl@starttoc {part@2}
-\contentsline {part}{\numberline {II}Freezer Meals}{9}{part.2}%
+\contentsline {part}{\numberline {II}Soups}{9}{part.2}%
+\contentsline {chapter}{\numberline {2}Chicken Soup}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Ingredients}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Method}{11}{section.2.2}%
+\ttl@stoptoc {part@2}
+\ttl@starttoc {part@3}
+\contentsline {part}{\numberline {III}Breakfasts}{13}{part.3}%
+\ttl@stoptoc {part@3}
+\ttl@starttoc {part@4}
+\contentsline {part}{\numberline {IV}Freezer Meals}{15}{part.4}%
 \contentsfinish 
